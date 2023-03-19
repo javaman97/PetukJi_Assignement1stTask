@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153224433658",
+    "project_id": "petukji1sttask",
+    "storage_bucket": "petukji1sttask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153224433658:android:5ac16632fb79d36820de43",
+        "android_client_info": {
+          "package_name": "com.example.petukji_assignement1sttask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153224433658-1r46f9cung0mlfk028i82vhab3fiqf8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEW1caDcTpw-tiUQIakddrrN66ILVcdyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153224433658-1r46f9cung0mlfk028i82vhab3fiqf8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
